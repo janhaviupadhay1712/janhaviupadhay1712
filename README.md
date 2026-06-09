@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Janhavi%20Upadhyay&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Janhavi%20Upadhyay&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Consistency%20today%2C%20excellence%20tomorrow." alt="Typing introduction" />
+</p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=janhaviupadhay1712">
     <img src="https://komarev.com/ghpvc/?username=janhaviupadhay1712&label=Profile%20views&color=00FFFF&style=flat-square" alt="janhaviupadhay1712's profile views" />
   </a>
 </p>
-
 <img src="none" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - 💻 BTech CSE (AI) Student | 🧠 Exploring AI, Problem Solving 🚀 Currently building skills in , DSA, Python & Software Development 📍INDIA
