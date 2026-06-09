@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=janhaviupadhay1712&label=Profile%20views&color=00FFFF&style=flat-square" alt="janhaviupadhay1712's profile views" />
   </a>
 </p>
-<img src="none" alt="Banner" width="100%" />
+
 
 
 ## 📌 About Me
