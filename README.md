@@ -90,11 +90,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/janhaviupadhay1712">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=janhaviupadhay1712&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 ![Top language](https://stats.pphat.top/languages?username=janhaviupadhay1712)
 <br/>
