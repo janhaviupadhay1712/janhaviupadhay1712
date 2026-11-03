@@ -32,9 +32,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=janhaviupadhay1712&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Janhavi Upadhyay's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=janhaviupadhay1712&theme=radical&radius=10" alt="janhaviupadhay1712's Activity Graph" />
-</p>
+
 
 
 
@@ -46,11 +44,6 @@
   <a href="mailto:janhaviu993@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Janhavi Upadhyay's Email"/></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 
 
